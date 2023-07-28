@@ -1,0 +1,10 @@
+fiveSpaces:     
+sixTabs:						
+fiveMoreNewLines:
+
+
+
+
+
+
+
