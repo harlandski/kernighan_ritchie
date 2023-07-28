@@ -1,10 +1,1 @@
-fiveSpaces:     
-sixTabs:						
-fiveMoreNewLines:
-
-
-
-
-
-
-
+oneSpace twoSpaces  threeSpaces   .
