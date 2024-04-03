@@ -6,3 +6,7 @@
 
 # Unignore all dirs
 !*/
+
+# Ignore all .exe and .out files
+*.exe
+*.out
